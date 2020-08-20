@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412064271237",
+    "firebase_url": "https://chat-44e60.firebaseio.com",
+    "project_id": "chat-44e60",
+    "storage_bucket": "chat-44e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412064271237:android:aa9cbc1c4d2eed5d3392ec",
+        "android_client_info": {
+          "package_name": "com.bonaparta.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412064271237-kuh4cekhq286vs8atta78cokqk3onrba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEToZKvu_d6Prr8AvxLWOAOzU9w8QEqQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412064271237-kuh4cekhq286vs8atta78cokqk3onrba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
