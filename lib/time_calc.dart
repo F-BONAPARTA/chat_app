@@ -23,7 +23,7 @@ String readTimestamp(int timestamp) {
 
   return time;
 }
-
+/*
 class TimeCount {
   formatTime() {
     DateTime now = DateTime.now();
@@ -120,3 +120,4 @@ class TimeCount {
     return "";
   }
 }
+*/
